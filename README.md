@@ -4,7 +4,8 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+<h2>🧑‍💻 Sobre mim</h2>
+
 -  Estudante de **Ciência da Computação**
 -  Apaixonado por **Python**, **Java**, **Redes**, **IA** e **LLMs**
 -  Trabalhando em projetos com **sockets**, **SQLite**, **Python** e **React**
@@ -58,22 +59,39 @@ Sistema com **cliente atendente**, **garçom** e **gerente**, utilizando:
 
 ---
 
+## Estatísticas 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohxxz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔗 Redes
 
-<p>
-  <a href="https://github.com/Pedrohxxz">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<table border="0">
+  <tr>
+    <td border="0" valign="top">
+      <p>
+        <a href="https://github.com/Pedrohxxz">
+          <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/pedrohxxxz/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <a href="https://www.instagram.com/pedro.hxxz/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td border="0" valign="top">
+      <img src="https://res.cloudinary.com/dw0qtsos5/image/upload/v1764591225/spiderman_py5snq.gif" width="120"/>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://www.linkedin.com/in/pedrohxxxz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://www.instagram.com/pedro.hxxz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
