@@ -1,27 +1,27 @@
 
-<h1 align="center">👋 Olá! Eu sou o Pedro</h1>
-<p align="center">🚀 Desenvolvedor em evolução | Ciência da Computação | Python, Java, IA e Redes</p>
+<h1 align="center"> Olá! Eu sou o Pedro</h1>
+<p align="center"> Desenvolvedor em evolução | Ciência da Computação | Python, Java, IA e Redes</p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
-- 🎓 Estudante de **Ciência da Computação**
-- 💻 Apaixonado por **Python**, **Java**, **Redes**, **IA** e **LLMs**
-- 🌐 Trabalhando em projetos com **sockets**, **SQLite**, **Python** e **React**
-- 📚 Sempre aprendendo coisas novas — principalmente IA, Python e Front-end
+-  Estudante de **Ciência da Computação**
+-  Apaixonado por **Python**, **Java**, **Redes**, **IA** e **LLMs**
+-  Trabalhando em projetos com **sockets**, **SQLite**, **Python** e **React**
+-  Sempre aprendendo coisas novas — principalmente IA, Python e Front-end
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🚀 Linguagens  
+###  Linguagens  
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-### 🎨 Front-end  
+###  Front-end  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -29,13 +29,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### ⚙️ Back-end / Banco de Dados
+###  Back-end / Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/Python_sockets-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🐧 Sistemas / Ferramentas
+###  Sistemas / Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -47,7 +47,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 📌 Sistema de Reservas  
+###  Sistema de Reservas  
 Sistema com **cliente atendente**, **garçom** e **gerente**, utilizando:
 - Python  
 - Sockets  
