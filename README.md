@@ -1,15 +1,14 @@
 
 <h1 align="center"> Olá! Eu sou o Pedro</h1>
-<p align="center"> Desenvolvedor em evolução | Ciência da Computação | Python, Java, IA e Redes</p>
+<p align="center"> Desenvolvedor em evolução | Ciência da Computação | Full Stack</p>
 
 ---
 
 <h2>🧑‍💻 Sobre mim</h2>
 
 -  Estudante de **Ciência da Computação**
--  Apaixonado por **Python**, **Java**, **Redes**, **IA** e **LLMs**
--  Trabalhando em projetos com **sockets**, **SQLite**, **Python** e **React**
--  Sempre aprendendo coisas novas — principalmente IA, Python e Front-end
+-  Apaixonado por **Python**, **Java**, **React**, **IA** 
+-  Sempre aprendendo coisas novas — principalmente IA, Back-end e Front-end
 
 ---
 
@@ -43,19 +42,6 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Projetos em Destaque
-
-###  Sistema de Reservas  
-Sistema com **cliente atendente**, **garçom** e **gerente**, utilizando:
-- Python  
-- Sockets  
-- SQLite  
-- Threads  
-
-➡ Repositório: [Sistema de reservas](https://github.com/Pedrohxxz/A3-de-Sistemas-Distribuidos)
 
 ---
 
