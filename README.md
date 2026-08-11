@@ -4,7 +4,7 @@
 
 ---
 
-<h2>🧑‍💻 Sobre mim</h2>
+<h2> Sobre mim</h2>
 
 -  Estudante de **Ciência da Computação**
 -  Apaixonado por **Python**, **Java**, **React**, **IA** 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ###  Linguagens  
 <p>
@@ -51,7 +51,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedrohxxz/Pedrohxxz/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🔗 Redes
+## Redes
 
 <table border="0">
   <tr>
@@ -82,4 +82,4 @@
 
 ---
 
-<p align="center">💬 “Sempre aprendendo, sempre evoluindo.”</p>
+<p align="center">“Sempre aprendendo, sempre evoluindo.”</p>
